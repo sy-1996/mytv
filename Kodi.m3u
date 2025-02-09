@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://111.170.172.113:35455/gaoma/cctv1.m3u8
+http://218.73.71.52:8088/udp/233.50.200.130:5140
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3
-http://newtv.fun:35455/gaoma/cctv3.m3u8
+http://183.156.208.70:4022/udp/233.50.201.196:5140
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://112.74.115.68:35455/gaoma/cctv6.m3u8
+http://114.99.168.217:8888/rtp/238.1.78.172:7248
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8
-http://lt.hxtre.com:35455/gaoma/cctv8.m3u8
+http://115.207.12.29:9999/udp/233.50.200.110:5140
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://116.179.130.120:6000/rtp/226.0.2.177:9328
